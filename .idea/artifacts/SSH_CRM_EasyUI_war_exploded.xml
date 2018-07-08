@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SSH_CRM_EasyUI:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSH_CRM_EasyUI_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SSH_CRM_EasyUI" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+      <element id="javaee-facet-resources" facet="SSH_CRM_EasyUI/web/Web" />
+    </root>
+  </artifact>
+</component>
