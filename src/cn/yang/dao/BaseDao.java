@@ -5,7 +5,7 @@ import org.hibernate.criterion.DetachedCriteria;
 import java.io.Serializable;
 import java.util.List;
 
-/*
+/**
     抽取共同操作创建baseDAO
     当操作对象不确定时，使用泛型
  */
